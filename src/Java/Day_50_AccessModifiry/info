@@ -1,0 +1,15 @@
+Access Modifiers (Public,Private,Protected,Default)
+
+Bunlar erisim alanlarini belirlerler
+1-Clas ici erisim
+2-Paket ici erisim
+3-Proje ici erisim
+
+
+PUBLIC:Tum projenin paketlerinden(pacget) ve class lardan erisilme imkani verir.Projedeki fields,metods,constructor
+PRIVATE: Sadace class ici erisimi saglar.Fields ve methods.Baska hic bir yerden erisilma imkani yok.
+         istisnasi;encapsulation da get ve set methotlari ile erisilebilir
+DEFAULT: Paket icerisindeki class lar arasinda erisim saglayabilir.Private nin paket versiyonu diyebiliriz
+         Fields,Method,Constructor ve Pacget icerisindeki class lara erisim mumkun.
+         Default keyword yazilarak kullanilamaz
+PROTECTED: Default ile ayni sadecxe bir fark;inheritance ile pacget ler arasi erisim sagler
