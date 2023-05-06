@@ -1,4 +1,4 @@
-package com.Java.Day_23_MethodOverloading;
+package Java.Day_23_MethodOverloading;
 
 public class _1_intro {
     public static void main(String[] args) {

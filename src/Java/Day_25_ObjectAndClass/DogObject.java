@@ -2,7 +2,7 @@ package com.Java.Day_25_ObjectAndClass;
 
 public class DogObject {
     public static void main(String[] args) {
-
+/*
         Dog benimKopegim;
         benimKopegim=new Dog();
 
@@ -21,6 +21,8 @@ public class DogObject {
         Dog myDog=new Dog();
         myDog.hungry();//Hungry isimli methodu cagirdik
         //Beklenen cikti: null is hungry
+
+ */
 
     }
 }

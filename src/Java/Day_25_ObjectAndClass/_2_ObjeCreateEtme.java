@@ -1,9 +1,10 @@
-package com.Java.Day_25_ObjectAndClass;
-
+/* package Java.Day_25_ObjectAndClass;
+import Day_25_ObjectAndClass;
 public class _2_ObjeCreateEtme {
+
     public static void main(String[] args) {
         //Nesne olusturmanin yolu: Asamali
-        Araba bilalinArabasi; //Fabrikaya sparis verdiniz
+      Araba bilalinArabasi; //Fabrikaya sparis verdiniz
         //Sizin adiniza bir araba sparisi verildi. Ortada araba yok
         bilalinArabasi=new Araba(); //Sizin adiniza olan araba uretildi, artik kullanilabilir
 
@@ -43,3 +44,4 @@ public class _2_ObjeCreateEtme {
     }
 }
 
+*/
