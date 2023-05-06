@@ -32,4 +32,10 @@ public class Bank {
   public void setAccountType(String accountType) {
     this.accountType = accountType.toUpperCase(); // Hesabin turu belirlendi
   }
+  // Githup deneme
+
+
+
+
+
 }
