@@ -1,0 +1,25 @@
+OOP REWIEW:
+
+Bir Scrum takimi olusturulmak isteniyor.
+-----SCRUM TEAM-------
+1-PO (Product Owner)
+2-SM (Scrum Master)
+3-Developers
+4-Tester
+5-Business Analyst
+
+PERSON--> Genel bir cerceve ile gruplandirmaya yariyor
+EMPLOYEE(calisan)-->bu da calisanlarin guruplandirilmasi
+
+
+
+
+   Yazilim dili gelisimi(Programing Language)
+A-->tamamen makina dili olarakcikti
+B-->yine sadece makina dili ve ayrice byte code ile gelistiriliyor
+C-->Bu dili unuversiteden bir prof. sadelestiriyor,daha anlasilir hale geliyor
+C+-->ile artik hayatin icinde cozumler uretmeye basliyor
+Java
+C#
+C++
+Python--> javanin sadelestirilmis sekli ile gelistiriliyor
